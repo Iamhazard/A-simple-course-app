@@ -1,0 +1,32 @@
+Documentation:
+
+NEXT Js:
+       1.Next 14 using App route,
+       2.Creating pages in your nextjs application for routing,
+       3.  App>Auth-Login and register for creating user and login
+       4.  App>Dashboard> : to create a courses.
+       5.  App>Dashboard>lessons : to create a lessons.
+       6.  App>Dashboard>ViewCourses : to view a courses.
+       7.  frontend Url=http://localhost:3000
+
+
+     RESTful API using .NET:(using Vscode)
+    1.BACKEND_URL=http://localhost:5000/api
+    2.folderStructure:Controllers(Folder),Models (Folder),Properties(Folder),Services(Folder),DTos(Folder)
+
+    API routes:
+
+    routes for Auth :
+    1./api/Account/signup =>for registration
+    2./api/Account/login =>for login
+    1. /api/Account/details=> for users details
+
+
+
+routes for Couse :
+    1./api/Course/createCourses =>for registration
+    2./api/Course/getCourses => for getting all courses
+    1. /api/Course/{id}=> for getting course with id
+
+       
+
